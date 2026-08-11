@@ -45,9 +45,6 @@ The independent AI certification engine. AVAAS evaluates model behavior against 
 ### ⚡ [Warrant](https://github.com/humanitysystems/warrant)
 Local, transparent MCP (Model Context Protocol) proxy with a React/Vite admin console. Warrant mirrors downstream stdio tools, forwards calls unchanged, and streams live request events over a loopback API for real-time AI tool auditing.
 
-### 🌐 [HumanityPedia](https://github.com/humanitysystems/humanitypedia)
-The semantic knowledge base and specification repository for Humanity Systems SPC. Documents the organization, standards, architectural schemas, and open specifications.
-
 ### 🤝 Humanity Exchange & Humanity API *(In Development)*
 Infrastructure connecting platform providers with verified human intent and consented data licensing—enabling direct user compensation through value-based rails (*Impact Credit*).
 
@@ -65,7 +62,6 @@ Under the **Humanity Systems Perpetual Purpose Trust**, our operating company is
 
 ## Repositories & Resources
 
-- 📖 **[HumanityPedia](https://github.com/humanitysystems/humanitypedia)** — Semantic knowledge base, specifications, and roadmap.
 - 🔌 **[Warrant](https://github.com/humanitysystems/warrant)** — Model Context Protocol (MCP) inspection and proxy server.
 - 🌐 **[humanitysystems.ai](https://humanitysystems.ai)** — Corporate homepage.
 - 🛡️ **[avaas.ai](https://avaas.ai)** — AVAAS AI Certification platform.
