@@ -14,7 +14,7 @@
 
 ## Overview
 
-**Humanity Systems SPC** is a Washington State Social Purpose Corporation building the substrate for consented human-AI interaction. 
+**Humanity Systems SPC** is a Social Purpose Corporation building the substrate for consented human-AI interaction. 
 
 The internet was built for extraction and outrage; AI inherits that substrate. We build infrastructure that allows **intent, consent, and compensation** to travel attached to every message, while providing independent, regulatory-aligned certification for autonomous AI systems before they impact human lives.
 
@@ -75,6 +75,6 @@ Under the **Humanity Systems Perpetual Purpose Trust**, our operating company is
 <div align="center">
 
 **Connect with us:**  
-`hello@humanitysystems.ai` • Washington State, USA
+`hello@humanitysystems.ai`
 
 </div>
