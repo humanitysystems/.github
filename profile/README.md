@@ -63,7 +63,7 @@ Under the **Humanity Systems Perpetual Purpose Trust**, our operating company is
 ## Repositories & Resources
 
 - 🔌 **[Warrant](https://github.com/humanitysystems/warrant)** — Model Context Protocol (MCP) inspection and proxy server.
-- 🤖 **[Emet](https://github.com/humanitysystems/emet)** — Developer assistant agent animated by the word אמת (truth); provider-agnostic Markdown, worn as a skin by any harness. [Landing page](https://humanitysystems.github.io/emet).
+- 👾 **[Emet](https://github.com/humanitysystems/emet)** — Developer assistant agent animated by the word אמת (truth); provider-agnostic Markdown, worn as a skin by any harness. [Landing page](https://humanitysystems.github.io/emet).
 - 🌐 **[humanitysystems.ai](https://humanitysystems.ai)** — Corporate homepage.
 - 🛡️ **[avaas.ai](https://avaas.ai)** — AVAAS AI Certification platform.
 
